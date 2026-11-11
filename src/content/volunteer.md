@@ -4,6 +4,12 @@ layout: layouts/contentHeavy.njk
 title: Volunteer
 ---
 
+<div role="note" class="not-prose mb-8 rounded-xl border border-yellow-300 dark:border-yellow-700 border-l-4 border-l-yellow-400 bg-yellow-50 dark:bg-yellow-950/40 px-5 py-4 text-left text-gray-900 dark:text-gray-100 shadow-sm">
+  <p class="mb-3 text-lg font-semibold">💖 Volunteer applications are paused until 2027</p>
+  <p class="mb-2">We're excited to welcome you as a volunteer but we've <strong>paused new volunteer applications</strong>.</p>
+  <p>Please check back early in 2027, we'd love your help!</p>
+</div>
+
 {% img "/assets/img/VolunteerHome.jpg", "Volunteer", "right" %}
 
 ## Adult Volunteerism
@@ -11,9 +17,6 @@ title: Volunteer
 Orlando Youth Alliance (and its affiliated groups) provides a safe space for lesbian, gay, bisexual, transgender, and questioning youth and young adults. 
 
 Our activities are coordinated, facilitated, and staffed by committed volunteers. We are looking for creative types who can get our youth involved in the community. If you have ideas on new activities, adventures, and resources -- we want to hear from you!
-
-If you are 25 or over and interested in volunteering, [click here](http://bttr.im/x0ilq) to get started!
-
 
 In the **Orlando** area:
 - Fundraising 
