@@ -4,9 +4,10 @@ layout: layouts/contentHeavy.njk
 title: Volunteer
 ---
 
-> 💖 We're excited to welcome you as a volunteer, but we've paused new volunteer applications until the end of 2026.
->
-> 📆 Please check back early in 2027, we'd love your help!
+<div role="note" class="not-prose mb-8 rounded-xl border border-yellow-300 dark:border-yellow-700 border-l-4 border-l-yellow-400 bg-yellow-50 dark:bg-yellow-950/40 px-5 py-4 text-left text-gray-900 dark:text-gray-100 shadow-sm">
+  <p class="mb-2">💖 We're excited to welcome you as a volunteer, but we've <strong>paused new volunteer applications until the end of 2026</strong>.</p>
+  <p>📆 Please check back early in 2027, we'd love your help!</p>
+</div>
 
 {% img "/assets/img/VolunteerHome.jpg", "Volunteer", "right" %}
 
