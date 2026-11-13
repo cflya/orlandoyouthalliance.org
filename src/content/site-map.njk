@@ -1,0 +1,25 @@
+---
+permalink: /site-map/
+layout: layouts/contentHeavy.njk
+title: Site Map
+eleventyExcludeFromCollections: true
+---
+<h2>Main pages</h2>
+<ul>
+{%- for item in nav %}
+  <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+{%- endfor %}
+</ul>
+
+<h2>More about us</h2>
+<ul>
+{%- for item in footer %}
+  {%- set dup = false %}
+  {%- for n in nav %}{% if n.url == item.url %}{% set dup = true %}{% endif %}{% endfor %}
+  {%- if not dup %}
+  <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+  {%- endif %}
+{%- endfor %}
+  <li><a href="/bequests/">Bequests</a></li>
+  <li><a href="/celebrity-server/">Celebrity Server</a></li>
+</ul>
