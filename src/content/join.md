@@ -4,7 +4,7 @@ layout: layouts/contentHeavy.njk
 title: Join today
 ---
 
-{% img "/assets/img/joinNow.png", "Join OYA today", "right", "", "https://airtable.com/shrDlpAu9x0VqcOR3" %}
+{% img "/assets/img/joinNow.png", "Join OYA today", "right", "", "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=AfHWl3aJdEudWt_FQ7S71mEAKGvTl-VNolNBk9BEyC5UNzBJMEEzNTdYREpTNzM2QU5OMzRQWk84UC4u" %}
 
 ## Is this you?
 Are you between the ages of 13 and 23? Are you curious about your sexuality or gender identity? Do you feel alone? Are you gay, lesbian, bisexual, transgender, questioning or a straight ally? Do you feel isolated at school? Are you having problems dealing with the issues of your sexuality? Do you want to be around others like you? Do you want to be part of an organization that emotionally supports LGBTQ members in a positive, non-threatening, non-judgmental environment?
@@ -17,7 +17,7 @@ So, are you ready to be a part of your community? Sign up today! Join TEAM OYA!
 There is no cost to get involved.
 
 
-[<mark class="text-lg bg-green-300 p-1 rounded">Click here to join now!</mark>](https://airtable.com/shrDlpAu9x0VqcOR3)
+[<mark class="text-lg bg-green-300 p-1 rounded">Click here to join now!</mark>](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=AfHWl3aJdEudWt_FQ7S71mEAKGvTl-VNolNBk9BEyC5UNzBJMEEzNTdYREpTNzM2QU5OMzRQWk84UC4u)
 </mark>
 
 <div class="text-center">

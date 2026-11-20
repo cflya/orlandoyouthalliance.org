@@ -17,7 +17,7 @@ So, are you ready to be a part of your community? Sign up today! Join TEAM OYA!
 There is no cost to get involved.
 
 
-[<mark class="text-lg bg-green-300 p-1 rounded">Click here to join now!</mark>](https://airtable.com/shrDlpAu9x0VqcOR3)
+[<mark class="text-lg bg-green-300 p-1 rounded">Click here to join now!</mark>](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=AfHWl3aJdEudWt_FQ7S71mEAKGvTl-VNolNBk9BEyC5UNzBJMEEzNTdYREpTNzM2QU5OMzRQWk84UC4u)
 </mark>
 
 <div class="text-center">
